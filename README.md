@@ -1,5 +1,5 @@
 # Web Scraper
-A web scraping application built with Next.js that extracts fragrance notes and images from Fragrantica.
+A web scraping application built with Next.js that extracts data from any website by using ?url=<target-url>. Currently, it extracts h2 headings so the code would need to be updated to extract other data.
 
 ## Features
 - Scrapes fragrance notes and images from Fragrantica
